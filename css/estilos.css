@@ -4,3 +4,8 @@ body{
     font-size: large;
     color: crimson;
 }
+article{
+    text-align: center;
+    color: sandybrown;
+    padding-left: 45%;
+}
